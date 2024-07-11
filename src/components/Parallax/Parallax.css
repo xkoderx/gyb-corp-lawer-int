@@ -1,0 +1,18 @@
+.parallax {
+    /* Add desired background image */
+    background-image: url('/img/5.jpg');
+    /* Set background attachment to fixed for the parallax effect */
+    background-attachment: fixed;
+    /* Adjust other styling as needed */
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.parallax-inner {
+    /* Add styling for inner content */
+    padding: 100px;
+    text-align: center;
+    color: #ffffff;
+}
